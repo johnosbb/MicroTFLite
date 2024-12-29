@@ -1,0 +1,11 @@
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignEscapedNewlines: Left
+ColumnLimit: 0
+TabWidth: 2
+IndentWidth: 2
+UseTab: Never
+NamespaceIndentation: All
+AlignConsecutiveMacros: true
+AllowShortIfStatementsOnASingleLine: true
+SortIncludes: false
